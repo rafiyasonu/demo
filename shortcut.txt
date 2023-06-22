@@ -1,0 +1,2 @@
+ Shift + Alt + F = It aligns the code
+ 
