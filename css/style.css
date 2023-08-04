@@ -31,7 +31,7 @@
 
 
 
-.qw .iimg{
+/* .qw .iimg{
     animation-name:tt;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -45,14 +45,14 @@
     100%{
         transform: rotate(360deg);
     }
-}
+} */
 
 
 
 
 
 
-.sidenav {
+/* .sidenav {
     height: 100%;
     width: 0;
     position: fixed;
@@ -89,7 +89,7 @@
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
-  }
+  } */
   
 
  
